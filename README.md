@@ -16,11 +16,11 @@ Here is a set of instructions that will get the project up and running on your l
 App
 ```
 cd App
-Npm Install 
+npm Install 
 react-native run-ios 
 ```
 Test
 ```
 cd Test
-Npm Install 
+npm Install 
 ```
